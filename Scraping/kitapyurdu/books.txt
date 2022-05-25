@@ -1,0 +1,600 @@
+-------------------------------------------
+1.
+Book's name : Gece Yarısı Kütüphanesi
+Book's author :  Matt Haig
+Book's publisher : DOMİNGO YAYINEVİ
+-------------------------------------------
+-------------------------------------------
+2.
+Book's name : Zaman Kaybolmaz
+Book's author : Prof. Dr. İlber Ortaylı
+Book's publisher : KRONİK KİTAP
+-------------------------------------------
+-------------------------------------------
+3.
+Book's name : Veronika Ölmek İstiyor
+Book's author :  Paulo Coelho
+Book's publisher : CAN YAYINLARI
+-------------------------------------------
+-------------------------------------------
+4.
+Book's name : Atomik Alışkanlıklar
+Book's author :  James Clear
+Book's publisher : PEGASUS YAYINLARI
+-------------------------------------------
+-------------------------------------------
+5.
+Book's name : Şeker Portakalı (Ciltsiz)
+Book's author :  Jose Mauro De Vasconcelos
+Book's publisher : CAN YAYINLARI
+-------------------------------------------
+-------------------------------------------
+6.
+Book's name : İnsan Geleceğini Nasıl Kurar? & Kendini İnşa Etmenin Yolları
+Book's author : Prof. Dr. İlber Ortaylı
+Book's publisher : KRONİK KİTAP
+-------------------------------------------
+-------------------------------------------
+7.
+Book's name : Gerçek Tıp & Yitik Şifanın İzinde
+Book's author :  Aidin Salih
+Book's publisher : YİTİK ŞİFA
+-------------------------------------------
+-------------------------------------------
+8.
+Book's name : Fareler ve İnsanlar
+Book's author :  John Steinbeck
+Book's publisher : SEL YAYINCILIK
+-------------------------------------------
+-------------------------------------------
+9.
+Book's name : Ben, Kirke
+Book's author :  Madeline Miller
+Book's publisher : İTHAKİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+10.
+Book's name : Simyacı (Ciltsiz)
+Book's author :  Paulo Coelho
+Book's publisher : CAN YAYINLARI
+-------------------------------------------
+-------------------------------------------
+11.
+Book's name : Karatay Sözü
+Book's author :  Canan Efendigil Karatay
+Book's publisher : HAYY KİTAP
+-------------------------------------------
+-------------------------------------------
+12.
+Book's name : Hayvan Çiftliği (Ciltsiz)
+Book's author :  George Orwell
+Book's publisher : CAN YAYINLARI
+-------------------------------------------
+-------------------------------------------
+13.
+Book's name : Kırk Kere Söyledim & Ben Ne Söyledim, Çocuğum Ne Anladı?
+Book's author : Prof. Dr. Ziya Selçuk
+Book's publisher : KRONİK KİTAP
+-------------------------------------------
+-------------------------------------------
+14.
+Book's name : Aylak Adam
+Book's author :  Yusuf Atılgan
+Book's publisher : CAN YAYINLARI
+-------------------------------------------
+-------------------------------------------
+15.
+Book's name : Bin Dokuz Yüz Seksen Dört - 1984 
+Book's author :  George Orwell
+Book's publisher : KAPRA YAYINCILIK
+-------------------------------------------
+-------------------------------------------
+16.
+Book's name : Akhilleus’un Şarkısı
+Book's author :  Madeline Miller
+Book's publisher : İTHAKİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+17.
+Book's name : Kürk Mantolu Madonna
+Book's author :  Sabahattin Ali
+Book's publisher : YAPI KREDİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+18.
+Book's name : Anka Kuşu
+Book's author :  Yılmaz Özdil
+Book's publisher : SİA KİTAP
+-------------------------------------------
+-------------------------------------------
+19.
+Book's name : Saatleri Ayarlama Enstitüsü
+Book's author :  Ahmet Hamdi Tanpınar
+Book's publisher : DERGAH YAYINLARI
+-------------------------------------------
+-------------------------------------------
+20.
+Book's name : Kırmızı Pazartesi
+Book's author :  Gabriel Garcia Marquez
+Book's publisher : CAN YAYINLARI
+-------------------------------------------
+-------------------------------------------
+21.
+Book's name : Yaşamak
+Book's author :  Yu Hua 
+Book's publisher : JAGUAR KİTAP
+-------------------------------------------
+-------------------------------------------
+22.
+Book's name : Kur’an Meal-Tefsir: Geniş Açıklamalı (Ciltli)
+Book's author :  Mehmet Okuyan
+Book's publisher : HALİÇ ÜNİVERSİTESİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+23.
+Book's name : Benim Zürafam Uçabilir
+Book's author :  Mert Arık
+Book's publisher : TİMAŞ ÇOCUK YAYINLARI
+-------------------------------------------
+-------------------------------------------
+24.
+Book's name : Geliştiren Anne-Baba
+Book's author :  Doğan Cüceloğlu
+Book's publisher : KRONİK KİTAP
+-------------------------------------------
+-------------------------------------------
+25.
+Book's name : Teklif 2 Aylık Düşünce Dergisi Sayı:2 Mart 2022
+Book's author :  Amin Maalouf
+Book's publisher : TEKLİF DERGİ
+-------------------------------------------
+-------------------------------------------
+26.
+Book's name : Semerkant
+Book's author :  Matt Haig
+Book's publisher : YAPI KREDİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+27.
+Book's name : İnsanlar
+Book's author :  Falih Rıfkı Atay
+Book's publisher : DOMİNGO YAYINEVİ
+-------------------------------------------
+-------------------------------------------
+28.
+Book's name : Zeytindağı
+Book's author :  Michael Ende
+Book's publisher : POZİTİF YAYINLARI
+-------------------------------------------
+-------------------------------------------
+29.
+Book's name : Momo
+Book's author :  Jose Mauro De Vasconcelos
+Book's publisher : PEGASUS YAYINLARI
+-------------------------------------------
+-------------------------------------------
+30.
+Book's name : Güneşi Uyandıralım
+Book's author :  Viktor Emil Frankl
+Book's publisher : CAN YAYINLARI
+-------------------------------------------
+-------------------------------------------
+31.
+Book's name : İnsanın Anlam Arayışı
+Book's author :  Ahmet Ümit
+Book's publisher : OKUYAN US YAYIN
+-------------------------------------------
+-------------------------------------------
+32.
+Book's name : Teklif 2 Aylık Düşünce Dergisi Sayı:1 Ocak 2022
+Book's author :  Merdan Yanardağ
+Book's publisher : TEKLİF DERGİ
+-------------------------------------------
+-------------------------------------------
+33.
+Book's name : Kayıp Tanrılar Ülkesi
+Book's author :  Engin Geçtan
+Book's publisher : YAPI KREDİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+34.
+Book's name : İçtihad Kapısı & İslam Dünyasının Süren Ortaçağı
+Book's author :  Rene Descartes
+Book's publisher : KIRMIZI KEDİ YAYINEVİ
+-------------------------------------------
+-------------------------------------------
+35.
+Book's name : İnsan Olmak
+Book's author :  Cicero 
+Book's publisher : METİS YAYINLARI
+-------------------------------------------
+-------------------------------------------
+36.
+Book's name : Kapra Felsefe Seti (10 Kitap)
+Book's author :  Tommasso Campanella
+Book's publisher : KAPRA YAYINCILIK
+-------------------------------------------
+-------------------------------------------
+37.
+Book's name : Kıyamet Emeklisi (1.Cilt)
+Book's author :  Francis Bacon
+Book's publisher : İLETİŞİM YAYINLARI
+-------------------------------------------
+-------------------------------------------
+38.
+Book's name : En Çılgın Takıntı
+Book's author :  Sigmund Freud
+Book's publisher : MARTI YAYINLARI
+-------------------------------------------
+-------------------------------------------
+39.
+Book's name : Doğu Ekspresinde Cinayet
+Book's author :  Niccolo Machiavelli
+Book's publisher : ALTIN KİTAPLAR
+-------------------------------------------
+-------------------------------------------
+40.
+Book's name : Delifişek
+Book's author :  Platon(Eflatun) 
+Book's publisher : CAN YAYINLARI
+-------------------------------------------
+-------------------------------------------
+41.
+Book's name : Huzursuzluk
+Book's author :  Zülfü Livaneli
+Book's publisher : DOĞAN KİTAP
+-------------------------------------------
+-------------------------------------------
+42.
+Book's name : Okçu'nun Yolu
+Book's author :  Paulo Coelho
+Book's publisher : CAN YAYINLARI
+-------------------------------------------
+-------------------------------------------
+43.
+Book's name : Elmalılı Hamdi Yazır ile Kur'an Sohbetleri
+Book's author :  Fatma Bayram
+Book's publisher : TİMAŞ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+44.
+Book's name : Allah ile Konuşturan Namaz
+Book's author :  Mehmet  Yıldız
+Book's publisher : TİMAŞ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+45.
+Book's name : Puslu Kıtalar Atlası
+Book's author :  İhsan Oktay Anar
+Book's publisher : İLETİŞİM YAYINLARI
+-------------------------------------------
+-------------------------------------------
+46.
+Book's name : Yüzyıllık Yalnızlık (Ciltsiz)
+Book's author :  Gabriel Garcia Marquez
+Book's publisher : CAN YAYINLARI
+-------------------------------------------
+-------------------------------------------
+47.
+Book's name : Doğunun Limanları
+Book's author :  Amin Maalouf
+Book's publisher : YAPI KREDİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+48.
+Book's name : Kurtlarla Koşan Kadınlar / Vahşi Kadın Arketipine Dair Mit ve Öyküler
+Book's author :  Clarissa Pinkola Estes
+Book's publisher : AYRINTI YAYINLARI
+-------------------------------------------
+-------------------------------------------
+49.
+Book's name : Tiamat (Karton Kapak)
+Book's author :  İhsan Oktay Anar
+Book's publisher : EVEREST YAYINLARI
+-------------------------------------------
+-------------------------------------------
+50.
+Book's name : İnsan Vücudu Tiyatrosu
+Book's author :  Maris Wicks
+Book's publisher : DOMİNGO YAYINEVİ
+-------------------------------------------
+-------------------------------------------
+51.
+Book's name : Son Cüret
+Book's author :  Yılmaz Özdil
+Book's publisher : SİA KİTAP
+-------------------------------------------
+-------------------------------------------
+52.
+Book's name : Cesur Yeni Dünya
+Book's author :  Aldous Huxley
+Book's publisher : İTHAKİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+53.
+Book's name : 30 Günde 10 Yıl
+Book's author : Prof. Dr. Yavuz Yörükoğlu
+Book's publisher : HAYY KİTAP
+-------------------------------------------
+-------------------------------------------
+54.
+Book's name : Dramsız Disiplin
+Book's author :  Tina Payne Bryson
+Book's publisher : PEGASUS YAYINLARI
+-------------------------------------------
+-------------------------------------------
+55.
+Book's name : Bir Ömür Nasıl Yaşanır? & Hayatta Doğru Seçimler İçin Öneriler
+Book's author :  Daniel J. Siegel
+Book's publisher : KRONİK KİTAP
+-------------------------------------------
+-------------------------------------------
+56.
+Book's name : Harry Potter ve Felsefe Taşı
+Book's author : Prof. Dr. İlber Ortaylı
+Book's publisher : YAPI KREDİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+57.
+Book's name : Diriliş Neslinin Amentüsü
+Book's author :  J. K. Rowling
+Book's publisher : DİRİLİŞ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+58.
+Book's name : Tutunamayanlar / Bütün Eserleri 1
+Book's author :  Sezai Karakoç
+Book's publisher : İLETİŞİM YAYINLARI
+-------------------------------------------
+-------------------------------------------
+59.
+Book's name : Lo
+Book's author :  Oğuz Atay
+Book's publisher : DOĞAN ÇOCUK
+-------------------------------------------
+-------------------------------------------
+60.
+Book's name : Kıyamet Emeklisi (2.Cilt)
+Book's author :  Şermin Yaşar
+Book's publisher : İLETİŞİM YAYINLARI
+-------------------------------------------
+-------------------------------------------
+61.
+Book's name : İçimizdeki Şeytan
+Book's author :  Sabahattin Ali
+Book's publisher : YAPI KREDİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+62.
+Book's name : Pal Sokağı Çocukları
+Book's author :  Ferenc Molnar
+Book's publisher : YAPI KREDİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+63.
+Book's name : Jane Eyre
+Book's author :  Charlotte Brontë
+Book's publisher : CAN YAYINLARI
+-------------------------------------------
+-------------------------------------------
+64.
+Book's name : Kalk Yerine Yat
+Book's author :  Şermin Yaşar
+Book's publisher : DOĞAN KİTAP
+-------------------------------------------
+-------------------------------------------
+65.
+Book's name : İspanyol Aşk Aldatmacası
+Book's author :  Elena  Armas
+Book's publisher : YABANCI YAYINLARI
+-------------------------------------------
+-------------------------------------------
+66.
+Book's name : Dune
+Book's author :  Frank Herbert
+Book's publisher : İTHAKİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+67.
+Book's name : Süt ve Bal
+Book's author :  Rupi Kaur
+Book's publisher : PEGASUS YAYINLARI
+-------------------------------------------
+-------------------------------------------
+68.
+Book's name : Tanrı'nın Tarihi & İslam, Hristiyanlık ve Yahudiliğin 4000 Yıllık Tarihi
+Book's author :  Karen Armstrong
+Book's publisher : PEGASUS YAYINLARI
+-------------------------------------------
+-------------------------------------------
+69.
+Book's name : Gölge Ordu & SADAT’ın Sır Perdesi Aralanıyor
+Book's author :  Caner Taşpınar
+Book's publisher : KIRMIZI KEDİ YAYINEVİ
+-------------------------------------------
+-------------------------------------------
+70.
+Book's name : Güzel Dünya, Neredesin?
+Book's author :  Ersin Eroğlu
+Book's publisher : CAN YAYINLARI
+-------------------------------------------
+-------------------------------------------
+71.
+Book's name : Uzun Hikaye
+Book's author :  Sally Rooney
+Book's publisher : DERGAH YAYINLARI
+-------------------------------------------
+-------------------------------------------
+72.
+Book's name : Bir İdam Mahkumunun Son Günü
+Book's author :  Mustafa Kutlu
+Book's publisher : KARBON KİTAPLAR
+-------------------------------------------
+-------------------------------------------
+73.
+Book's name : Tüfek, Mikrop ve Çelik  (Karton Kapak) 
+Book's author :  Victor Hugo
+Book's publisher : PEGASUS YAYINLARI
+-------------------------------------------
+-------------------------------------------
+74.
+Book's name : Billy Summers
+Book's author :  Jared Diamond
+Book's publisher : ALTIN KİTAPLAR
+-------------------------------------------
+-------------------------------------------
+75.
+Book's name : Çavdar Tarlasında Çocuklar
+Book's author :  Stephen King
+Book's publisher : YAPI KREDİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+76.
+Book's name : İnci
+Book's author :  J. D. Salinger
+Book's publisher : SEL YAYINCILIK
+-------------------------------------------
+-------------------------------------------
+77.
+Book's name : İnce Memed 1
+Book's author :  John Steinbeck
+Book's publisher : YAPI KREDİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+78.
+Book's name : İnce Memed 2
+Book's author :  Yaşar Kemal
+Book's publisher : YAPI KREDİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+79.
+Book's name : Başarıya Götüren Aile
+Book's author :  Yaşar Kemal
+Book's publisher : REMZİ KİTABEVİ
+-------------------------------------------
+-------------------------------------------
+80.
+Book's name : Sofie'nin Dünyası Felsefe Tarihi Üzerine Bir Roman
+Book's author :  Doğan Cüceloğlu
+Book's publisher : PAN YAYINCILIK
+-------------------------------------------
+-------------------------------------------
+81.
+Book's name : Kuyucaklı Yusuf
+Book's author :  Sabahattin Ali
+Book's publisher : YAPI KREDİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+82.
+Book's name : Dervişin Teselli Koleksiyonu & Doğu'dan Batı'dan 99 Teselli 
+Book's author :  Mecit Ömür Öztürk
+Book's publisher : HAYY KİTAP
+-------------------------------------------
+-------------------------------------------
+83.
+Book's name : Aşk ve Öbür Cinler
+Book's author :  Gabriel Garcia Marquez
+Book's publisher : CAN YAYINLARI
+-------------------------------------------
+-------------------------------------------
+84.
+Book's name : Neden İslam’ın Orta Çağı Yoktu ? & Antik Çağ’ın Mirası ve Doğu
+Book's author :  Thomas Bauer
+Book's publisher : RUNİK KİTAP
+-------------------------------------------
+-------------------------------------------
+85.
+Book's name : Bir Psikiyatristin Anıları
+Book's author :  Irvin D. Yalom
+Book's publisher : PEGASUS YAYINLARI
+-------------------------------------------
+-------------------------------------------
+86.
+Book's name : İnsanlığımı Yitirirken
+Book's author :  Osamu Dazai
+Book's publisher : İTHAKİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+87.
+Book's name : İrade Terbiyesi
+Book's author :  Jules Payot
+Book's publisher : KARBON KİTAPLAR
+-------------------------------------------
+-------------------------------------------
+88.
+Book's name : Bilinçaltının Gücü & Zihinsel ve Bedensel İyileşme
+Book's author :  Joseph Murphy
+Book's publisher : DİYOJEN YAYINCILIK
+-------------------------------------------
+-------------------------------------------
+89.
+Book's name : Başkalarının Tanrısı
+Book's author :  Mine Söğüt
+Book's publisher : CAN YAYINLARI
+-------------------------------------------
+-------------------------------------------
+90.
+Book's name : Zamansız
+Book's author :  Latife Tekin
+Book's publisher : CAN YAYINLARI
+-------------------------------------------
+-------------------------------------------
+91.
+Book's name : Beyaz Zambaklar Ülkesinde
+Book's author :  Grigory Petrov
+Book's publisher : KAPRA YAYINCILIK
+-------------------------------------------
+-------------------------------------------
+92.
+Book's name : Bir İdam Mahkumunun Son Günü
+Book's author :  Victor Hugo
+Book's publisher : KAPRA YAYINCILIK
+-------------------------------------------
+-------------------------------------------
+93.
+Book's name : Siddhartha (Ciltsiz)
+Book's author :  Hermann Hesse
+Book's publisher : CAN YAYINLARI
+-------------------------------------------
+-------------------------------------------
+94.
+Book's name : İki Şehrin Hikayesi
+Book's author :  Charles Dickens
+Book's publisher : CAN YAYINLARI
+-------------------------------------------
+-------------------------------------------
+95.
+Book's name : Kitaplardan Korkan Çocuk
+Book's author :  Susanna Tamaro
+Book's publisher : CAN ÇOCUK YAYINLARI
+-------------------------------------------
+-------------------------------------------
+96.
+Book's name : İnce Memed 3
+Book's author :  Yaşar Kemal
+Book's publisher : YAPI KREDİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+97.
+Book's name : Zaman Bisikleti
+Book's author :  Bilgin Adalı
+Book's publisher : CAN ÇOCUK YAYINLARI
+-------------------------------------------
+-------------------------------------------
+98.
+Book's name : En Tatlı Kaçış
+Book's author :  Danielle Lori
+Book's publisher : MARTI YAYINLARI
+-------------------------------------------
+-------------------------------------------
+99.
+Book's name : İnce Memed 4
+Book's author :  Yaşar Kemal
+Book's publisher : YAPI KREDİ YAYINLARI
+-------------------------------------------
+-------------------------------------------
+100.
+Book's name : Başarısızlar Kulübü
+Book's author :  Anıl Basılı
+Book's publisher : TİMAŞ İLK GENÇ 
+-------------------------------------------
